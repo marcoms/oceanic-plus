@@ -1,7 +1,7 @@
-# Change Log
-All notable changes to the "oceanic-plus" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2017-09-19
 
-## [Unreleased]
-- Initial release
+> Initial release ported from [Oceanic Next Italic](https://github.com/Bloemert/oceanic-next-italic)
+
+- Added workspace/user interface colors
