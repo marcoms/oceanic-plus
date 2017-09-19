@@ -29,8 +29,6 @@
 		"editorSuggestWidget.background": "#1b2b34",
 		"tab.inactiveForeground": "#ffffff77",
 		"statusBar.foreground": "#ffffffaa",
-		"statusBar.background": "#1b2b34",
-		"statusBar.border": "#ffffff22",
 		"activityBar.foreground": "#ffffff88",
 		"activityBar.background": "#111b21",
 		"sideBar.background": "#16242c",
