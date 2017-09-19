@@ -31,11 +31,10 @@
 		"statusBar.foreground": "#ffffffaa",
 		"statusBar.background": "#1b2b34",
 		"statusBar.border": "#ffffff22",
-		"activityBar.background": "#1b2b34",
 		"activityBar.foreground": "#ffffff88",
-		"activityBar.border": "#ffffff22",
 		"sideBar.background": "#1b2b34",
-		"sideBar.border": "#ffffff22"
+		"sideBar.border": "#ffffff22",
+		"activityBar.background": "#111b21"
 	},
 	"tokenColors": [
 		{
