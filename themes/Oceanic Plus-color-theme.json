@@ -96,10 +96,18 @@
 			}
 		},
 		{
-			"name": "Number, Function Argument, Tag Attribute, Embedded",
-			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
+			"name": "Number, Tag Attribute, Embedded",
+			"scope": "constant.numeric, constant.language, support.constant, constant.character, keyword.other.unit",
 			"settings": {
 				"foreground": "#F99157"
+			}
+		},
+		{
+			"name": "Declared Function Argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#F99157",
+				"fontStyle": "italic"
 			}
 		},
 		{
