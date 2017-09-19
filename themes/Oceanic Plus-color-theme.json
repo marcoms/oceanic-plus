@@ -21,7 +21,6 @@
 		"editorHoverWidget.background": "#1b2b34",
 		"editorHoverWidget.border": "#ffffff22",
 		"editor.lineHighlightBackground": "#ffffff0a",
-		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#ffffff11",
 		"editorIndentGuide.background": "#ffffff11",
 		"editorLineNumber.foreground": "#ffffff33",
@@ -35,7 +34,8 @@
 		"statusBar.background": "#0d151a",
 		"scrollbarSlider.activeBackground": "#fff6",
 		"scrollbarSlider.background": "#fff2",
-		"scrollbarSlider.hoverBackground": "#fff4"
+		"scrollbarSlider.hoverBackground": "#fff4",
+		"editorCursor.foreground": "#b8cdda"
 	},
 	"tokenColors": [
 		{
