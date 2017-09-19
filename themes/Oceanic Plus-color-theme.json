@@ -35,7 +35,8 @@
 		"scrollbarSlider.activeBackground": "#fff6",
 		"scrollbarSlider.background": "#fff2",
 		"scrollbarSlider.hoverBackground": "#fff4",
-		"editorCursor.foreground": "#b8cdda"
+		"editorCursor.foreground": "#b8cdda",
+		"focusBorder": "#3f657a"
 	},
 	"tokenColors": [
 		{
