@@ -34,7 +34,9 @@
 		"activityBar.foreground": "#ffffff88",
 		"activityBar.background": "#111b21",
 		"sideBar.background": "#16242c",
-		"sideBar.border": "#ffffff1a"
+		"sideBar.border": "#ffffff1a",
+		"statusBar.background": "#0d151a",
+		"statusBar.border": "#ffffff00"
 	},
 	"tokenColors": [
 		{
