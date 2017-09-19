@@ -1,0 +1,22 @@
+{
+    "name": "oceanic-plus",
+    "displayName": "Oceanic Plus Color Theme",
+    "description": "Color and UI theme based on Oceanic Next",
+    "version": "0.0.1",
+    "publisher": "marcoms",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic Plus-color-theme.json"
+            }
+        ]
+    }
+}
