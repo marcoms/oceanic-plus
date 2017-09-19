@@ -57,7 +57,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#CDD3DE"
+				"foreground": "#fbc2a2"
 			}
 		},
 		{
