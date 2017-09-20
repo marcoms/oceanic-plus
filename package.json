@@ -2,7 +2,7 @@
     "name": "oceanic-plus",
     "displayName": "Oceanic Plus",
     "description": "Color and UI theme based on Oceanic Next",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "marcoms",
     "repository": {
         "type": "git",
@@ -14,6 +14,11 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#1b2b34"
+    },
     "contributes": {
         "themes": [
             {

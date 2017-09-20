@@ -4,9 +4,9 @@ Oceanic Plus is a color scheme based on the popular Oceanic Next, with enhanced 
 
 Inspiration taken from One Dark, Ayu, and of course Oceanic Next!
 
-![Workspace](screenshot-workspace.png)
+![Workspace](https://raw.githubusercontent.com/marcoms/oceanic-plus/master/screenshot-syntax.png)
 
-![Syntax](screenshot-syntax.png)
+![Syntax](https://raw.githubusercontent.com/marcoms/oceanic-plus/master/screenshot-syntax.png)
 
 ## Credits
 
