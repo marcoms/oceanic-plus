@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "oceanic-plus"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Oceanic Plus
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Oceanic Plus is a color scheme based on the popular Oceanic Next, with enhanced VSCode-specific enhancements targeting the workspace and other UI elements
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Workspace](screenshot-workspace.png)
+![Syntax](screenshot-syntax.png)
 
-**Enjoy!**
+## Credits
+
+- [Oceanic Next Color Scheme](https://github.com/voronianski/oceanic-next-color-scheme)
+- [Oceanic Next Italic](https://github.com/Bloemert/oceanic-next-italic)
