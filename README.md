@@ -1,8 +1,11 @@
 # Oceanic Plus
 
-Oceanic Plus is a color scheme based on the popular Oceanic Next, with enhanced VSCode-specific enhancements targeting the workspace and other UI elements
+Oceanic Plus is a color scheme based on the popular Oceanic Next, with enhanced VSCode-specific enhancements targeting the workspace and other UI elements.
+
+Inspiration taken from One Dark, Ayu, and of course Oceanic Next!
 
 ![Workspace](screenshot-workspace.png)
+
 ![Syntax](screenshot-syntax.png)
 
 ## Credits
