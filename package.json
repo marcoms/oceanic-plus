@@ -24,7 +24,7 @@
             {
                 "label": "Oceanic Plus",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Oceanic Plus-color-theme.json"
+                "path": "./themes/oceanic-plus.json"
             }
         ]
     }
