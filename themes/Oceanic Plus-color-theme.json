@@ -16,6 +16,8 @@
 		"editorIndentGuide.background": "#fff1",
 		"editorLineNumber.foreground": "#fff3",
 		"editorSuggestWidget.background": "#1b2b34",
+		"editorWidget.background": "#1b2b34",
+		"editorWidget.border": "#ffffff1a",
 		"editorWhitespace.foreground": "#fff1",
 		"focusBorder": "#3f657a",
 		"input.background": "#ffffff0a",
