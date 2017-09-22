@@ -1,5 +1,12 @@
 # Changelog
 
+## 2017-09-22
+
+- Added notification colors
+- Added remaining status bar colors
+- Added titlebar colors for macOS
+- Altered cursor foreground color
+
 ## 2017-09-19
 
 > Initial release ported from [Oceanic Next Italic](https://github.com/Bloemert/oceanic-next-italic)
