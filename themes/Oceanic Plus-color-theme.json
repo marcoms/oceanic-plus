@@ -28,6 +28,17 @@
 		"list.hoverBackground": "#ffffff08",
 		"list.inactiveFocusBackground": "#fff1",
 		"list.inactiveSelectionBackground": "#fff1",
+		"notification.background": "#35454E",
+		"notification.foreground": "#fffe",
+		"notification.buttonBackground": "#369",
+		"notification.buttonForeground": "#fffe",
+		"notification.buttonHoverBackground": "#4D80B3",
+		"notification.errorBackground": "#EC5F67",
+		"notification.errorForeground": "#fffe",
+		"notification.infoBackground": "#369",
+		"notification.infoForeground": "#fffe",
+		"notification.warningBackground": "#F99157",
+		"notification.warningForeground": "#fffe",
 		"scrollbar.shadow": "#0006",
 		"scrollbarSlider.activeBackground": "#fff6",
 		"scrollbarSlider.background": "#fff2",
@@ -46,7 +57,7 @@
 		"tab.inactiveForeground": "#fff7",
 		"titleBar.activeBackground": "#0d151a",
 		"titleBar.inactiveBackground": "#0d151a",
-		"widget.shadow": "#0005",
+		"widget.shadow": "#0005"
 	},
 	"tokenColors": [
 		{
