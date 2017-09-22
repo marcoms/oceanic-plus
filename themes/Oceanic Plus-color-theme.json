@@ -42,6 +42,8 @@
 		"tab.activeBackground": "#ffffff1a",
 		"tab.inactiveBackground": "#1b2b34",
 		"tab.inactiveForeground": "#fff7",
+		"titleBar.activeBackground": "#0d151a",
+		"titleBar.inactiveBackground": "#0d151a",
 		"widget.shadow": "#0005"
 	},
 	"tokenColors": [
