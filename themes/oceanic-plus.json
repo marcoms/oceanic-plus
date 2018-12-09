@@ -70,7 +70,7 @@
 		"statusBar.foreground": "#fffa",
 		"statusBar.noFolderBackground": "#0d151a",
 		"statusBar.noFolderForeground": "#fffa",
-		"tab.activeBackground": "#ffffff1a",
+		"tab.activeBackground": "#5FB3B31d",
 		"tab.activeBorder": "#afd8d8",
 		"tab.border": "#0000",
 		"tab.inactiveBackground": "#1b2b34",
