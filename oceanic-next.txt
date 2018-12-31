@@ -1,0 +1,21 @@
+GREYSCALE
+
+base 00: #1B2B34  -- editor base (bluish)
+base 01: #343D46
+base 02: #4F5B66
+base 03: #65737E
+base 04: #A7ADBA
+base 05: #C0C5CE
+base 06: #CDD3DE
+base 07: #D8DEE9
+
+COLORS
+
+base 08: #EC5f67  -- red
+base 09: #F99157  -- orange
+base 0A: #FAC863  -- yellow
+base 0B: #99C794  -- jasmine
+base 0C: #5FB3B3  -- teal
+base 0D: #6699CC  -- muted blue
+base 0E: #C594C5  -- fucshia
+base 0F: #AB7967  -- brown
