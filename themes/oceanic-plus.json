@@ -24,6 +24,7 @@
 		"editorIndentGuide.activeBackground": "#477189",
 		"editorIndentGuide.background": "#fff1",
 		"editorLineNumber.foreground": "#fff3",
+		"editorRuler.foreground": "#fff1",
 		"editorSuggestWidget.background": "#1b2b34",
 		"editorSuggestWidget.highlightForeground": "#5fb3b3",
 		"editorWhitespace.foreground": "#fff1",
