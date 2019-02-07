@@ -8,6 +8,7 @@
         "type": "git",
         "url": "https://github.com/marcoms/oceanic-plus.git"
     },
+    "license": "MIT",
     "engines": {
         "vscode": "^1.16.0"
     },
